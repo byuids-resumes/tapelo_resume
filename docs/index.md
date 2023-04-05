@@ -19,12 +19,15 @@ __Brigham Young University-Idaho__, Rexburg, ID
 
 - Major: Computer Science
 - Thomas E. Ricks Academic Scholarship (Merit-based)
-- GPA 3.99/4.0
+- GPA 3.99
 
 
-## Tools
-- Advanced: Python(pandas), HTML, CSS, SQL, Microsoft Excel, R
+## Tools and Skills
+- Advanced: Python(pandas), HTML, CSS, SQL, R, Microsoft Excel
 - Competent: JavaScript, Tableau
+- Utilized Python and R programming languages to process, clean and analyze data.
+- Used data manipulation libraries such as Pandas to perform straightforward analysis, produce charts, and prepare data for machine learning algorithms.
+- Ability to programmatically load data from various types of data sources, including files, databases, and remote services. I have also become adept at using machine learning libraries such as Scikit-Learn to discover insights, make predictions, and interpret the success of these algorithms.
 
 
 ## Work Experience
