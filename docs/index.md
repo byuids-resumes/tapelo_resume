@@ -2,7 +2,7 @@
 layout: cv
 title: Tapelo Dube's Resume
 ---
-# Gabriel Ikpaetuk
+# Tapelo Dube
 
 <div id="webaddress">
 <a href="tapelo.dbe@gmail.com">Email</a>
