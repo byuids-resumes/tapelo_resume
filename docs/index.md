@@ -22,6 +22,11 @@ __Brigham Young University-Idaho__, Rexburg, ID
 - GPA 3.99/4.0
 
 
+## Tools
+- Advanced: Python(pandas), HTML, CSS, SQL, Microsoft Excel, R
+- Competent: JavaScript, Tableau
+
+
 ## Work Experience
 
 ### Microsft Excel Tutor
